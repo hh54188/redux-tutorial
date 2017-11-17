@@ -3,4 +3,3 @@
 - Redux + thunk tutorial: https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3
 - High Order Component: https://reactjs.org/docs/higher-order-components.html
 - Why we need immutable data structure: https://developmentarc.gitbooks.io/react-indepth/content/life_cycle/update/using_should_component_update.html
-- Why Immutable.js is faster (因为使用了 structural sharing 技术): https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2
